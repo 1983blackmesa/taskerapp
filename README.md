@@ -5,3 +5,5 @@ Mongodb connected with AWS Cloud
 root of project "npm install"
 
 cd to client folder and do "npm install"
+
+go to main folder of project and type "npm run dev" to start app
