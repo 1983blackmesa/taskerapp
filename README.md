@@ -3,4 +3,5 @@ React app that does note keeping, user map location, to do list, login/register 
 Mongodb connected with AWS Cloud
 
 root of project npm install
+
 cd to client folder and do npm install
