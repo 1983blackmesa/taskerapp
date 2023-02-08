@@ -43,7 +43,7 @@ app.use(cors({
 }));
 
 app.get('/', (req, res) => {
-  res.send('ok');
+  res.send('server is ok');
 });
 
 app.get('/user', (req, res) => {
